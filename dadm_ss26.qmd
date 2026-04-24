@@ -69,7 +69,7 @@ I acknowledge that the university may use plagiarism detection software to check
 
 Checklist:
 
-- [ ] The handout contains 3-5 pages of text.
+- [x] The handout contains 3-5 pages of text.
 - [ ] The submission contains the Quarto file of the handout.
 - [ ] The submission contains the Quarto file of the presentation.
 - [ ] The submission contains the HTML file of the handout.
@@ -108,31 +108,33 @@ If anything is unclear, please let me know as soon as possible. It is your respo
 Please consider @tbl-tpc. You should be able to identify yourself with your first name.
 
 ::: {.callout-important appearance="default"}
-- If you do not see your matriculation number on the list but have registered, please contact me as soon as possible.
+- If you do not see your name  on the list but have registered, please contact me as soon as possible.
 
 - The presentation day is an official examination day, and failure to attend will result in a grade of 5.0. Ensure that you do not miss this important date.
 :::
 
 ::: {#tbl-tpc}
 
-| Date      | Name        | Presentation Topic                                                                                          |
-|-----------|------------|-------------------------------------------------------------------------------------------------------------|
+| Date      | Name           | Presentation Topic                                                                                          |
+|-----------|----------------|-------------------------------------------------------------------------------------------------------------|
 | Apr 21    | Bahadori    | Descriptive Tables in R: janitor, dplyr, gtsummary                                                         |
 | Apr 28    | Strikumar   | Understanding Syntax: Python and R Compared                                                                |
 | Apr 28    | Mahdi       | Literate Programming With Quarto                                                                           |
-| May 5     | Das         | Coding and Collaborating with GitHub                                                                       |
+| May 5     | Roopam      | Coding and Collaborating with GitHub                                                                       |
 | May 19    | Ali         | Importing Data in R: Exploring Various Packages and Their Advantages                                       |
 | May 19    | Luisa       | The Importance of Summary Statistics and Techniques for Creating Them in R                                 |
 | May 19    | Sherine     | R Control Flow Statements: Building Blocks for Automated Decision-Making                                   |
-| May 26    | Amine       | Interactive Visualization in R & Applications in Business                                                  |
 | May 26    | Çağan       | Why Data Cleaning Matters: Methods and Tools in R                                                          |
 | May 26    | Shravanthi  | Handling Duplicates in Data: Challenges and Solutions                                                      |
+| May 26    | Adineh      | Conducting Multiple Linear Regression Analysis Using R                                      |
+| June 2    | Amine       | Interactive Visualization in R & Applications in Business                                                  |
 | June 2    | Vedat       | Geospatial Visualization with R                                                                            |
 | June 2    | Mustafa     | Decision Making with Sentiment Analysis in R                                                               |
-| June 2    | Adineh      | Conducting and Presenting Multiple Linear Regression Analysis Using R                                      |
+| June 2    | Sukanya     | R Packages for Importing Data Directly from the Internet                                                             |
 | June 16   | Milad       | Factor Analysis for Business Decision-Making Using R                                                       |
 | June 16   | Saketh      | Applying Cluster Analysis in R for Business Segmentation                                                   |
 | June 16   | Nwanneka    | Interactive Business Analytics Using R and Shiny: The Radiant Package                                      |
+| June 16   | Mohammed    | Presenting Regression Results Using R                                        |
 
 Topics, students, and dates
 :::
