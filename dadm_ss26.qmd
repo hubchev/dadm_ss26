@@ -69,7 +69,7 @@ I acknowledge that the university may use plagiarism detection software to check
 
 Checklist:
 
-- [x] The handout contains 3-5 pages of text.
+- [ ] The handout contains 3-5 pages of text.
 - [ ] The submission contains the Quarto file of the handout.
 - [ ] The submission contains the Quarto file of the presentation.
 - [ ] The submission contains the HTML file of the handout.
