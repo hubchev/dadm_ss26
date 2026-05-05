@@ -1,1 +1,1 @@
-# dadm_ss26
+# This repo is about the dadm course in SS26.
